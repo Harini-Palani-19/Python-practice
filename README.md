@@ -36,6 +36,9 @@ This repository contains beginner Python programs created while learning core pr
 - shape.py
 - replace.py
 - vowelcount.py
+- linearsearch.py
+- sumandavg.py
+- largesmallarr.py
 
 ---
 
