@@ -1,5 +1,9 @@
 # Python Practice Programs
 
+👩‍🎓 Maintained by: Harini Palani  
+B.Tech AI & DS – 1st Year Student
+
+
 This repository contains beginner Python programs created while learning core programming concepts.
 
 ---
