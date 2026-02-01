@@ -42,6 +42,10 @@ This repository contains beginner Python programs created while learning core pr
 
 ---
 
+## 💻Mini Projects Included
+
+-passwordchecker
+
 ## ▶ How to Run
 
 1. Install Python.
