@@ -44,7 +44,11 @@ This repository contains beginner Python programs created while learning core pr
 
 ## 💻Mini Projects Included
 
--passwordchecker
+- password.py
+- guessinggame.py
+- grade.py
+- todo.py
+- calculator.py
 
 ## ▶ How to Run
 
