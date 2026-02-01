@@ -1,0 +1,6 @@
+n=int(input("Enter first number:"))
+m=int(input("Enter second number:"))
+print("Sum=",n+m)
+print("Difference=",m-n)
+print("Multiply=",m*n)
+print("Divide=",m/n)
