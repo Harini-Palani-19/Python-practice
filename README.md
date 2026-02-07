@@ -50,6 +50,8 @@ This repository contains beginner Python programs created while learning core pr
 - todo.py
 - calculator.py
 - marksmanager.py
+- attendencetracker.py
+- shoppingcart.py
 
 ## ▶ How to Run
 
